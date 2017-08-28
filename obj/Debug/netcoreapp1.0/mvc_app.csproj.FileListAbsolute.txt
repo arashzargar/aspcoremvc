@@ -1,0 +1,8 @@
+/home/ubuntu/mvc_app/bin/Debug/netcoreapp1.0/mvc_app.deps.json
+/home/ubuntu/mvc_app/bin/Debug/netcoreapp1.0/mvc_app.runtimeconfig.json
+/home/ubuntu/mvc_app/bin/Debug/netcoreapp1.0/mvc_app.runtimeconfig.dev.json
+/home/ubuntu/mvc_app/bin/Debug/netcoreapp1.0/mvc_app.dll
+/home/ubuntu/mvc_app/bin/Debug/netcoreapp1.0/mvc_app.pdb
+/home/ubuntu/mvc_app/obj/Debug/netcoreapp1.0/mvc_app.AssemblyInfo.cs
+/home/ubuntu/mvc_app/obj/Debug/netcoreapp1.0/mvc_app.dll
+/home/ubuntu/mvc_app/obj/Debug/netcoreapp1.0/mvc_app.pdb
